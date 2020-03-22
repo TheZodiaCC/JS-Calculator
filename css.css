@@ -1,0 +1,11 @@
+body
+{
+	background-color: dimgray;
+	color: white;
+    font-size: 17px;
+}
+button
+{
+    margin: 5px;
+    padding: 5px;
+}
